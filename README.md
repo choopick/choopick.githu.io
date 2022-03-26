@@ -1,1 +1,1 @@
-# choopick.githu.io
+# choopick.github.io
